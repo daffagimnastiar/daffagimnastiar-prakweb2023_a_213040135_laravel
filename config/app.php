@@ -74,7 +74,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Locale Configuration
+    | Application Locale Configuration Ewean memek
     |--------------------------------------------------------------------------
     |
     | The application locale determines the default locale that will be used
@@ -100,7 +100,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Faker Locale
+    | Faker Locale memek kontol hayang ewean
     |--------------------------------------------------------------------------
     |
     | This locale will be used by the Faker PHP library when generating fake
